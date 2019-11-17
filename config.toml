@@ -1,7 +1,7 @@
 # Site settings
-baseURL = "//example.org"
+baseURL = "//thedrewbisset.com"
 languageCode = "en-US"
-title = "Split - HTML Template Demo"
+title = "Drew Bisset"
 theme = "hugo-split-theme"
 disableKinds = ["section", "taxonomy", "taxonomyTerm", "RSS", "sitemap"]
 
@@ -9,12 +9,12 @@ disableKinds = ["section", "taxonomy", "taxonomyTerm", "RSS", "sitemap"]
 googleAnalytics = ""
 
 # Copyright
-copyright = "&copy;2018 Your Name"
+copyright = "&copy;2019 Drew Bisset"
 
 [params]
 
   # Metadata for search engines and social sharing
-  author = "Jenny Jones"
+  author = "Drew Bisset"
   description = "Split is a centrally-divided layout for a professional online presence with a big image or video left with alongside content."
   shareImage = "images/social.jpg"
   twitterHandle = "onepagelove"
@@ -49,29 +49,13 @@ copyright = "&copy;2018 Your Name"
         text = "Blog"
         url = "#"
 
-      [[params.links.list1.link]]
-        text = "Email"
-        url = "#"
-
-      [[params.links.list1.link]]
-        text = "Newsletter"
-        url = "#"
-
   # Links List #2
   [[params.links]]
     [params.links.list2]
       heading = "Social"
 
       [[params.links.list2.link]]
-        text = "Twitter"
-        url = "#"
-
-      [[params.links.list2.link]]
-        text = "Instagram"
-        url = "#"
-
-      [[params.links.list2.link]]
-        text = "Dribbble"
+        text = "LinkedIn"
         url = "#"
 
   # Links List #3
