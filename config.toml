@@ -50,5 +50,16 @@ copyright = "&copy;2019 Drew Bisset"
         text = "LinkedIn"
         url = "https://www.linkedin.com/in/thedrewbisset/"
 
+[deployment]
+# By default, files are uploaded in an arbitrary order.
+# Files that match the regular expressions in the "Order" list
+# will be uploaded first, in the listed order.
+order = [".jpg$", ".gif$"]
 
 
+[[deployment.targets]]
+# An arbitrary name for this target.
+name = "aws"
+# S3; see https://gocloud.dev/howto/blob/#s3
+# For S3-compatible endpoints, see https://gocloud.dev/howto/blob/#s3-compatible
+URL = "s3://thedrewbisset.com?region=us-east-1"
