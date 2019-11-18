@@ -1,0 +1,14 @@
+---
+title: "Drew Bisset"
+tagline: "Leader. Solutionist. Maker."
+---
+
+[CTO, Peerfit](https://peerfit.com)
+
+[VPPR, Augusta Toastmasters](https://augusta.toastmastersclubs.com)
+
+[Advisor, Curated By Helen](https://curatedbyhelen.com)
+
+[Advisor, GoBV](https://gotogv.com)
+
+[Remote Work Advocate](https://remotelysoftware.com/podcasts/2017/8/18/episode-4-drew-bisset)

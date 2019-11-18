@@ -15,9 +15,8 @@ copyright = "&copy;2019 Drew Bisset"
 
   # Metadata for search engines and social sharing
   author = "Drew Bisset"
-  description = "Split is a centrally-divided layout for a professional online presence with a big image or video left with alongside content."
+  description = "Leader. Solutionist. Maker."
   shareImage = "images/social.jpg"
-  twitterHandle = "onepagelove"
 
   # Favicon
   favicon = "favicon.ico"
@@ -29,7 +28,9 @@ copyright = "&copy;2019 Drew Bisset"
     [params.visual.image]
       enable = true
       file = "images/background.jpg"
-      position = "center center"
+      position = "absolute"
+      width = "100%"
+      height = "auto"
 
     # Video
     [params.visual.video]
@@ -43,39 +44,11 @@ copyright = "&copy;2019 Drew Bisset"
   # Links List #1
   [[params.links]]
     [params.links.list1]
-      heading = "Connect"
-
-      [[params.links.list1.link]]
-        text = "Blog"
-        url = "#"
-
-  # Links List #2
-  [[params.links]]
-    [params.links.list2]
       heading = "Social"
 
-      [[params.links.list2.link]]
+      [[params.links.list1.link]]
         text = "LinkedIn"
-        url = "#"
+        url = "https://www.linkedin.com/in/thedrewbisset/"
 
-  # Links List #3
-  [[params.links]]
-    [params.links.list3]
-      heading = "Network"
 
-      [[params.links.list3.link]]
-        text = "Link One"
-        url = "#"
 
-      [[params.links.list3.link]]
-        text = "Link Two"
-        url = "#"
-
-      [[params.links.list3.link]]
-        text = "Link Three"
-        url = "#"
-
-  # The original template is released under the Creative Commons Attribution 3.0 License.
-  # Please keep the original attribution link when using for your own project.
-  # If you'd like to use the template without the attribution, you can check out
-  # the license option via the template author's website: https://onepagelove.com/split
