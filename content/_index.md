@@ -3,9 +3,9 @@ title: "Drew Bisset"
 tagline: "Leader. Solutionist. Maker."
 ---
 
-[CTO, Peerfit](https://peerfit.com)
+[CTO, Peerfit](https://peerfit.com/about-us)
 
-[VPPR, Augusta Toastmasters](https://augusta.toastmastersclubs.com)
+[VPPR, Augusta Toastmasters](https://augusta.toastmastersclubs.org/meetourmembers.html)
 
 [Advisor, Curated By Helen](https://curatedbyhelen.com)
 
