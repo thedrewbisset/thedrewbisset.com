@@ -11,4 +11,4 @@ tagline: "Leader. Solutionist. Maker."
 
 [Advisor, Curated By Helen](https://curatedbyhelen.com)
 
-[Advisor, GoBV](https://gotogv.com)
+[Advisor, GoBV](https://gotobv.com)
