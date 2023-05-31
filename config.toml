@@ -50,6 +50,13 @@ copyright = "&copy;2019 Drew Bisset"
         text = "LinkedIn"
         url = "https://www.linkedin.com/in/thedrewbisset/"
 
+    [params.links.list2]
+      heading = "Music"
+
+      [[params.links.list2.link]]
+        text = "Soundcloud"
+        url = "https://soundcloud.com/dsurge/tracks"
+
 [deployment]
 # By default, files are uploaded in an arbitrary order.
 # Files that match the regular expressions in the "Order" list
