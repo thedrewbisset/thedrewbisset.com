@@ -27,7 +27,7 @@ copyright = "&copy;2023 Drew Bisset"
     # Image
     [params.visual.image]
       enable = true
-      file = "images/background.jpg"
+      file = "images/profile.jpg"
       position = "absolute"
       width = "100%"
       height = "auto"
