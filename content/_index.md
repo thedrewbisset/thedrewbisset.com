@@ -1,10 +1,8 @@
 ---
 title: "Drew Bisset"
-tagline: "Leader. Solutionist. Maker."
+tagline: "Leader. Builder. Creative."
 ---
 
-[Technology Consultant](https://letsgoexponential.com)
+[Co-Founder, The Curated Team](https://thecuratedteam.com)
 
 [Remote Work Advocate](https://remotelysoftware.com/podcasts/2017/8/18/episode-4-drew-bisset)
-
-[Partner, The Curated Team](https://thecuratedteam.com)
