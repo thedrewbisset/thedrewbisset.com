@@ -16,7 +16,7 @@ copyright = "&copy;2024 Drew Bisset"
   # Metadata for search engines and social sharing
   author = "Drew Bisset"
   description = "Leader. Builder. Creative."
-  shareImage = "images/social.jpg"
+  shareImage = "images/background.jpg"
 
   # Favicon
   favicon = "favicon.ico"
